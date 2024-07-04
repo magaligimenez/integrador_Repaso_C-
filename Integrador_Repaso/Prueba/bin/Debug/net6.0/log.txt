@@ -1,0 +1,4 @@
+17/6/2024 02:19:22: EmpleadoNoEncontradoException - Empleado con nombre 'Lujan' no encontrado.
+17/6/2024 02:27:41: DatoInvalidoException - El empleado ya se encuentra en la nomina - valor: Pérez, Juan
+17/6/2024 02:35:51: DatoInvalidoException - El empleado ya se encuentra en la nomina - valor: Pérez, Juan
+17/6/2024 03:36:56: DatoInvalidoException - El empleado ya se encuentra en la nomina - valor: Pérez, Juan
